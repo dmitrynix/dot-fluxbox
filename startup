@@ -16,6 +16,8 @@ setxkbmap -layout us -variant mac -option altwin:swap_lalt_lwin
 # wmsmixer -w &
 # idesk &
 
+(sleep 10 && ~/.dropbox-dist/dropboxd start) &
+
 # And last but not least we start fluxbox.
 # Because it is the last app you have to run it with ''exec'' before it.
 
