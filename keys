@@ -4,7 +4,7 @@ OnDesktop Mouse2 :WorkspaceMenu
 OnDesktop Mouse3 :RootMenu
 
 # Open menu with keyboard
-Mod1 W :RootMenu
+Mod1 E :RootMenu
 
 # scroll on the desktop to change workspaces
 #OnDesktop Mouse4 :PrevWorkspace
