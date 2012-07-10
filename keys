@@ -77,7 +77,7 @@ Mod1 space :Exec fbrun
 Mod1 Q :Close
 #Mod1 F5 :Kill
 Mod1 H :Minimize
-#Mod1 F10 :Maximize
+Mod1 X :Maximize
 #Mod1 F11 :Fullscreen
 
 # open the window menu
