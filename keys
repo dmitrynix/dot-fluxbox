@@ -62,7 +62,7 @@ Mod4 Shift Tab :PrevTab
 
 # open a terminal
 #Mod1 Return :Exec xterm
-Mod1 Return :Exec Terminator
+Mod1 Return :Exec terminator
 
 # open a dialog to run programs
 Mod1 space :Exec fbrun
