@@ -6,6 +6,9 @@ OnDesktop Mouse3 :RootMenu
 # Open menu with keyboard
 Mod1 E :RootMenu
 
+# Toggle Desktop
+128 :ShowDesktop
+
 # scroll on the desktop to change workspaces
 #OnDesktop Mouse4 :PrevWorkspace
 #OnDesktop Mouse5 :NextWorkspace
