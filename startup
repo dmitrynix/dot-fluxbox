@@ -17,6 +17,7 @@ setxkbmap -layout us -variant mac -option altwin:swap_lalt_lwin
 # idesk &
 
 (sleep 10 && ~/.dropbox-dist/dropboxd start) &
+fbsetroot -foreground '#B2B2BF' -background '#B2B2BF' -solid '#B2B2BF'
 
 # And last but not least we start fluxbox.
 # Because it is the last app you have to run it with ''exec'' before it.
