@@ -75,6 +75,8 @@ Mod1 space :Exec fbrun
 123 :Exec amixer sset Master,0 1+
 122 :Exec amixer sset Master,0 1-
 121 :Exec amixer sset Master,0 toggle
+Control Shift Up :Exec amixer sset 'Rear Mic Boost',0 100%
+Control Shift Down :Exec amixer sset 'Rear Mic Boost',0 0%
 
 # current window commands
 Mod1 Q :Close
