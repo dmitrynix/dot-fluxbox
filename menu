@@ -1,7 +1,7 @@
 [begin] (Fluxbox-1.3.1)
   [encoding] {UTF-8}
     [exec] (Google Chrome) {/opt/google/chrome/chrome}
-    [exec] (Thunar) {thunar}
+    [exec] (Nautilus) {nautilus --no-desktop}
     [exec] (Skype) {skype}
     [exec] (VirtualBox) {virtualbox}
     [exec] (Gnome Terminal) {gnome-terminal}
