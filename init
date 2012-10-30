@@ -54,7 +54,7 @@ session.screen0.noFocusWhileTypingDelay:	0
 session.screen0.autoRaise:	true
 session.screen0.windowMenu:	~/.fluxbox/windowmenu
 session.screen0.opaqueMove:	true
-session.screen0.strftimeFormat:	%k:%M
+session.screen0.strftimeFormat:	%a, %b %d %k:%M
 session.screen0.colPlacementDirection:	TopToBottom
 session.autoRaiseDelay:	250
 session.keyFile:	~/.fluxbox/keys
