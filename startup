@@ -16,7 +16,7 @@ setxkbmap -layout us -variant mac -option altwin:swap_lalt_lwin
 # wmsmixer -w &
 # idesk &
 
-(sleep 10 && ~/.dropbox-dist/dropboxd start) &
+(sleep 10 && dropboxd start) &
 (sleep 15 && gnome-sound-applet) &
 fbsetroot -foreground '#B2B2BF' -background '#B2B2BF' -solid '#B2B2BF'
 
