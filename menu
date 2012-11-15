@@ -5,6 +5,8 @@
     [exec] (Gnome Terminal) {gnome-terminal}
     [exec] (Nautilus) {nautilus --no-desktop}
     [exec] (VirtualBox) {virtualbox}
+    [exec] (Calibre) {calibre}
+    [exec] (Backup with dejadup) {deja-dup --backup}
     [exec] (Screenshot - JPG) {import screenshot.jpg && display -resize 50% screenshot.jpg}
     [exec] (Screenshot - PNG) {import screenshot.png && display -resize 50% screenshot.png}
     [submenu] (System Styles ->) {Choose a style...}
