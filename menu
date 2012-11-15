@@ -1,11 +1,10 @@
 [begin] (Fluxbox-1.3.1)
   [encoding] {UTF-8}
     [exec] (Google Chrome) {/opt/google/chrome/chrome}
-    [exec] (Nautilus) {nautilus --no-desktop}
-    [exec] (Skype) {skype}
-    [exec] (VirtualBox) {virtualbox}
-    [exec] (Gnome Terminal) {gnome-terminal}
     [exec] (xterm) {xterm}
+    [exec] (Gnome Terminal) {gnome-terminal}
+    [exec] (Nautilus) {nautilus --no-desktop}
+    [exec] (VirtualBox) {virtualbox}
     [exec] (Screenshot - JPG) {import screenshot.jpg && display -resize 50% screenshot.jpg}
     [exec] (Screenshot - PNG) {import screenshot.png && display -resize 50% screenshot.png}
     [submenu] (System Styles ->) {Choose a style...}
