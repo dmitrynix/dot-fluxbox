@@ -75,8 +75,6 @@ Mod1 space :Exec fbrun
 123 :Exec amixer sset Master,0 2+
 122 :Exec amixer sset Master,0 2-
 121 :Exec amixer sset Master,0 toggle
-Control Shift Up :Exec amixer sset 'Digital',0 90
-Control Shift Down :Exec amixer sset 'Digital',0 0
 
 # current window commands
 Mod1 Q :Close
