@@ -15,6 +15,11 @@
     [submenu] (User Styles ->) {Choose a style...}
       [stylesdir] (~/.fluxbox/styles)
     [end]
+    [submenu] (Games ->) {Choose a game...}
+      [exec] (Steam) {/home/dmitry/Dropbox/Binary/steam.sh}
+      [exec] (TF2) {/home/dmitry/Dropbox/Binary/tf2}
+      [exec] (L4D2) {/home/dmitry/Dropbox/Binary/l4d2}
+    [end]
     [reconfig] (Reload config)
     [restart] (Restart)
     [exit] (Exit)
