@@ -19,6 +19,7 @@
       [exec] (Steam) {/home/dmitry/Dropbox/Binary/steam.sh}
       [exec] (TF2) {/home/dmitry/Dropbox/Binary/tf2}
       [exec] (L4D2) {/home/dmitry/Dropbox/Binary/l4d2}
+      [exec] (War Z) {/home/dmitry/Dropbox/Binary/warz}
     [end]
     [reconfig] (Reload config)
     [restart] (Restart)
