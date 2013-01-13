@@ -9,6 +9,7 @@
     [exec] (Backup with dejadup) {deja-dup --backup}
     [exec] (Screenshot - JPG) {import screenshot.jpg && display -resize 50% screenshot.jpg}
     [exec] (Screenshot - PNG) {import screenshot.png && display -resize 50% screenshot.png}
+    [exec] (PMS) {/usr/local/pms-1.72.0/PMS.sh}
     [submenu] (System Styles ->) {Choose a style...}
       [stylesdir] (/usr/share/fluxbox/styles)
     [end]
