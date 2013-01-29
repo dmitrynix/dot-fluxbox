@@ -16,13 +16,6 @@
     [submenu] (User Styles ->) {Choose a style...}
       [stylesdir] (~/.fluxbox/styles)
     [end]
-    [submenu] (Games ->) {Choose a game...}
-      [exec] (Steam) {/home/dmitry/Dropbox/Binary/steam.sh}
-      [exec] (Desura) {/home/dmitry/.local/desura/desura}
-      [exec] (TF2) {/home/dmitry/Dropbox/Binary/tf2}
-      [exec] (L4D2) {/home/dmitry/Dropbox/Binary/l4d2}
-      [exec] (War Z) {/home/dmitry/Dropbox/Binary/warz}
-    [end]
     [reconfig] (Reload config)
     [restart] (Restart)
     [exit] (Exit)
