@@ -1,0 +1,8 @@
+#!/bin/bash
+
+dropbox.py start
+nm-applet &
+gnome-settings-daemon &
+gnome-sound-applet &
+/opt/screencloud/screencloud.sh &
+fbsetbg /usr/share/backgrounds/warty-final-ubuntu.png
