@@ -1,7 +1,0 @@
-#!/bin/bash
-
-gnome-settings-daemon &
-nm-applet &
-gnome-sound-applet &
-/opt/screencloud/screencloud.sh &
-fbsetbg /usr/share/backgrounds/warty-final-ubuntu.png

@@ -16,8 +16,12 @@ setxkbmap -layout us -variant mac -option altwin:swap_lalt_lwin
 # wmsmixer -w &
 # idesk &
 
-fbsetroot -foreground '#B2B2BF' -background '#B2B2BF' -solid '#B2B2BF'
-(sleep 20 && /home/dmitry/.fluxbox/delay-startup) &
+gnome-settings-daemon &
+nm-applet &
+gnome-sound-applet &
+workrave &
+fbsetbg /usr/share/backgrounds/warty-final-ubuntu.png
+(sleep 20 && /opt/screencloud/screencloud.sh) &
 
 # And last but not least we start fluxbox.
 # Because it is the last app you have to run it with ''exec'' before it.
