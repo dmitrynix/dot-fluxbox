@@ -6,6 +6,7 @@
     [exec] (xterm) {xterm}
     [exec] (VirtualBox) {virtualbox}
     [exec] (Calibre) {calibre}
+    [exec] (Rhythmbox) {rhythmbox}
     [exec] (Screenshot - JPG) {import screenshot.jpg && display -resize 50% screenshot.jpg}
     [exec] (Screenshot - PNG) {import screenshot.png && display -resize 50% screenshot.png}
     [separator]
