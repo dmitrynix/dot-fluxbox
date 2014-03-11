@@ -7,8 +7,8 @@
     [exec] (VirtualBox) {virtualbox}
     [exec] (Calibre) {calibre}
     [exec] (Rhythmbox) {rhythmbox}
-    [exec] (Screenshot - JPG) {import screenshot.jpg && display -resize 50% screenshot.jpg}
-    [exec] (Screenshot - PNG) {import screenshot.png && display -resize 50% screenshot.png}
+    [separator]
+    [exec] (GMail) {/opt/google/chrome/google-chrome --app=https://gmail.com/}
     [separator]
     [submenu] (System Styles ->) {Choose a style...}
       [stylesdir] (/usr/share/fluxbox/styles)
