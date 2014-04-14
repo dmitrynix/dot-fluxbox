@@ -12,9 +12,6 @@
     [exec] (Anki) {/usr/bin/anki}
     [separator]
     [exec] (GMail) {/opt/google/chrome/google-chrome --app=https://gmail.com/}
-    [exec] (Calendar) {/opt/google/chrome/google-chrome --app=https://www.google.com/calendar}
-    [exec] (Contacts) {/opt/google/chrome/google-chrome --app=http://contacts.google.com/}
-    [exec] (Notes) {/opt/google/chrome/google-chrome --app=http://keep.google.com/}
     [exec] (Feedly) {/opt/google/chrome/google-chrome --app=http://feedly.com/}
     [separator]
     [submenu] (System Styles ->) {Choose a style...}
