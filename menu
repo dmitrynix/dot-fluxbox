@@ -8,9 +8,7 @@
     [exec] (Calibre) {calibre}
     [exec] (Rhythmbox) {rhythmbox}
     [exec] (gPodder) {gpodder}
-    [separator]
     [exec] (Anki) {/usr/bin/anki}
-    [separator]
     [exec] (GMail) {/opt/google/chrome/google-chrome --app=https://gmail.com/}
     [exec] (Feedly) {/opt/google/chrome/google-chrome --app=http://feedly.com/}
     [separator]
