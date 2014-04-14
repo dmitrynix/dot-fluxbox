@@ -9,7 +9,7 @@
     [exec] (Rhythmbox) {rhythmbox}
     [exec] (gPodder) {gpodder}
     [separator]
-    [exec] (Anki) {/usr/bin/anki} </usr/share/pixmaps/anki.xpm>
+    [exec] (Anki) {/usr/bin/anki}
     [separator]
     [exec] (GMail) {/opt/google/chrome/google-chrome --app=https://gmail.com/}
     [exec] (Calendar) {/opt/google/chrome/google-chrome --app=https://www.google.com/calendar}
