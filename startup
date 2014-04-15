@@ -21,7 +21,7 @@ nm-applet &
 gnome-sound-applet &
 workrave &
 fbsetbg /usr/share/backgrounds/warty-final-ubuntu.png
-(sleep 20 && /opt/screencloud/screencloud.sh) &
+/opt/screencloud/screencloud.sh &
 
 [ -f ${HOME}/.fluxbox/local-startup ] && ${HOME}/.fluxbox/local-startup
 
