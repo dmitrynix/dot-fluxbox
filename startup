@@ -16,12 +16,12 @@ setxkbmap -layout us -variant mac -option altwin:swap_lalt_lwin
 # wmsmixer -w &
 # idesk &
 
+fbsetbg /usr/share/backgrounds/warty-final-ubuntu.png
 gnome-settings-daemon &
 nm-applet &
 gnome-sound-applet &
 workrave &
-fbsetbg /usr/share/backgrounds/warty-final-ubuntu.png
-/opt/screencloud/screencloud.sh &
+/home/dmitry/Local/Binary/dropbox.py start &
 
 [ -f ${HOME}/.fluxbox/local-startup ] && ${HOME}/.fluxbox/local-startup
 
