@@ -9,7 +9,7 @@
     [exec] (Rhythmbox) {rhythmbox}
     [exec] (gPodder) {gpodder}
     [exec] (Anki) {/usr/bin/anki}
-    [exec] (GMail) {/opt/google/chrome/google-chrome --app=https://gmail.com/}
+    [exec] (Geary) {geary}
     [exec] (Feedly) {/opt/google/chrome/google-chrome --app=http://feedly.com/}
     [separator]
     [submenu] (System Styles ->) {Choose a style...}
