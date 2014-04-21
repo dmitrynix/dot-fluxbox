@@ -1,17 +1,20 @@
 [begin] (Fluxbox-1.3.1)
   [encoding] {UTF-8}
-    [exec] (Google Chrome) {google-chrome}
-    [exec] (Nautilus) {nautilus --no-desktop}
-    [exec] (Gnome Terminal) {gnome-terminal}
-    [exec] (xterm) {xterm}
-    [exec] (VirtualBox) {virtualbox}
+    [exec] (Anki) {/usr/bin/anki}
     [exec] (Calibre) {calibre}
+    [exec] (Feedly) {/opt/google/chrome/google-chrome --app=http://feedly.com/}
+    [exec] (Geary) {geary}
+    [exec] (Gnome Terminal) {gnome-terminal}
+    [exec] (Google Chrome) {google-chrome}
+    [exec] (gPodder) {gpodder}
+    [exec] (Nautilus) {nautilus --no-desktop}
     [exec] (Rhythmbox) {rhythmbox}
     [exec] (Spotify) {spotify}
-    [exec] (gPodder) {gpodder}
-    [exec] (Anki) {/usr/bin/anki}
-    [exec] (Geary) {geary}
-    [exec] (Feedly) {/opt/google/chrome/google-chrome --app=http://feedly.com/}
+    [exec] (UberWriter) {/opt/extras.ubuntu.com/uberwriter/bin/uberwriter}
+    [exec] (VirtualBox) {virtualbox}
+    [exec] (VLC) {vlc}
+    [exec] (xterm) {xterm}
+    [exec] (Zotero) {/home/dmitry/Local/Zotero_linux-x86_64/run-zotero.sh}
     [separator]
     [submenu] (System Styles ->) {Choose a style...}
       [stylesdir] (/usr/share/fluxbox/styles)
