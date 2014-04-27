@@ -11,6 +11,7 @@
     [exec] (Rhythmbox) {rhythmbox}
     [exec] (Spotify) {spotify}
     [exec] (UberWriter) {/opt/extras.ubuntu.com/uberwriter/bin/uberwriter}
+    [exec] (Viber) {/usr/share/viber/Viber.sh}
     [exec] (VirtualBox) {virtualbox}
     [exec] (VLC) {vlc}
     [exec] (xterm) {xterm}
